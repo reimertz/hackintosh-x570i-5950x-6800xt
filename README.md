@@ -14,6 +14,9 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
 | graphics card | [Radeon Vega 64](https://www.gigabyte.com/Graphics-Card/GV-RXVEGA64-8GD-B#kf) | 1 | |
 | cooler | [Noctua NH-L12S](https://noctua.at/en/nh-l12s) | 1 | *this is a bit to big for my case so I cannot close it. get [this instead](https://noctua.at/en/nh-l12-ghost-s1-edition).* |
 | SSD | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 2 | *two because of dual-boot* |
+| Bluetooth | [Asus BT400](https://www.asus.com/us/Networking/USBBT400/overview/) | 1 | |
+
+Bluetooth Asus BT400
 
 ## Photos
 
