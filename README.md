@@ -26,21 +26,33 @@ Bluetooth Asus BT400
 <p align="center"><i>banana is actually pretty small.. 🍌</i></p>
 </div>
 
-## Hackintosh
-### What is working
-1. Wake / sleep
-2. iCloud / Messages / Facetime
-3. Audio
-3. USB
-5. Ethernet
-6. Boot screen
-7. Dual boot
+## What is working
+- Wake / sleep
+- iCloud / Messages / Facetime
+- Audio
+- AirPods automatic switching
+- USB (Apple Keyboard, Apple Trackpad)
+- Ethernet
+- Boot screen
+- Dual boot
 
-### What is **NOT** working (and probably never will)
-1. Built-in Wifi / Bluetooth (Intel®Wi-Fi 6 AX200)
-2. Virtualization (Docker, Android Emulator)
+## What is NOT working (and probably never will)
+- Built-in Wifi / Bluetooth (Intel®Wi-Fi 6 AX200)
+- Virtualization (Docker, Android Emulator)
 
-## Gotchas
-I am not interested in supporting this yet, just making it public for others building a system with the same setup.
-This repo does not include a legit serial. You will have to change that yourself.
+## Cost Efficiency
 
+I  want to acknowledge that I am privileged to be able to spend this on a  build but it is very motivated since I work on this thing for 8 hours a  day.
+It might not be obvious, but I  am saving a lot of money by investing in this. If you split this cost  over 5 years, it's $2 a day[0]. 
+
+I rather pay that premium to have faster  Xcode builds, faster git cloning, faster render times, faster exports  etc while also buying parts thate are future-proofed.
+
+Actually,  let's say I'd save 10 minutes a day and had a salary of $25/hour, this computer would pay itself. [1]
+
+[0]:
+Cost of computer / # of days I work in 5 years = Cost/day
+$2500 / (5 days * 50 weeks * 5 years) = $2/day
+
+[1]:
+Salary / min * mins saved / day *  nr of days in 5 years = $ saved
+($25 / 60 min)  * 10 min * ( 5 dys * 50 weeks * 5 years) = $2604 saved
