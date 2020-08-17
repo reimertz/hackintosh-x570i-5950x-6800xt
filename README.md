@@ -27,6 +27,7 @@ Bluetooth Asus BT400
 </div>
 
 ## What is working
+- Undervolted + Underclocked vega 64
 - Wake / sleep
 - iCloud / Messages / Facetime
 - Audio
