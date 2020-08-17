@@ -192,6 +192,33 @@
 		<key>Delete</key>
 		<dict/>
 	</dict>
+	<key>Devices</key>
+	<dict>
+		<key>Properties</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>PP_DisableClockStretcher</key>
+				<integer>1</integer>
+				<key>PP_DisablePowerContainment</key>
+				<integer>0</integer>
+				<key>PP_DisableULV</key>
+				<integer>1</integer>
+				<key>PP_EnableUploadFirmware</key>
+				<integer>0</integer>
+				<key>PP_Falcon_QuickTransition_Enable</key>
+				<integer>1</integer>
+				<key>PP_GfxOffControl</key>
+				<integer>0</integer>
+				<key>PP_PhmSoftPowerPlayTable</key>
+				<data>tgIIAQBcAOEGAADuKwAAGwBIAAAAgKkDAPBJAgAyAAgAAAAAAAAAAAAAAAAAAAIBXABPAkYClACeAb4AKAF6AIwAvAEAAAAAcgIAAJAAqAJtAUMBlwHwSQIAcQICAgAAAAAAAAgAAAAAAAAABQAHAAMABQAAAAAAAAABCCADSANwA6wD1APoAwYELgQBAUwEAQGEAwAIYOoAAABAGQEAAYA4AQAC3EoBAAOQXwEABAB3AQAFkJEBAAZssAEABwEI0EwBAAAAgAAAAAAAAByDAQABAAAAAAAAAABwpwEAAgAAAAAAAAAAiLwBAAMAAAAAAAAAAMDUAQAEAAAAAAAAAABEIwIABQAAAAABAAAAAFgCAAYAAAAAAQAAALh8AgAHAAAAAAEAAAAABWDqAAAAQBkBAACAOAEAANxKAQAAkF8BAAAACChuAAAALMkAAAH4CwEAAoA4AQADkF8BAAT0kQEABdCwAQAGwNQBAAcACGw5AAAAJF4AAAH8hQAAAqy8AAADNNAAAARobgEABQiXAQAG7KMBAAcAAWg8AQAAAQQ8QQAAAAAAUMMAAAAAAHARAQACAACQXwEABAAAAQgAmIUAAEC1AABg6gAAUMMAAAGAuwAAYOoAAJQLAQBQwwAAAgDhAACUCwEAQBkBAFDDAAADeP8AAEAZAQCIJgEAUMMAAARAGQEAgDgBAIA4AQBQwwAABYA4AQDcSgEA3EoBAFDDAAAGAHcBAAB3AQCQXwEAUMMAAAeQkQEAkJEBAAB3AQBQwwAAARgAAAAAAAAAC9kakAEkEzwACgBUA5ABkAGQAZABkAGQAZABAAAAAAACBDEH3ADcANwALAEAAFkAaQBKAEoAXwBzAHMAZABAAJCSl2CWAJBVAAAAAAAAAAAAAAAAAAAAAAACAtQwAAACEGDqAAACEA==</data>
+				<key>PP_PhmUseDummyBackEnd</key>
+				<integer>0</integer>
+				<key>PP_ToolsLogSpaceSize</key>
+				<integer>524288</integer>
+			</dict>
+		</dict>
+	</dict>
 	<key>Kernel</key>
 	<dict>
 		<key>Add</key>
