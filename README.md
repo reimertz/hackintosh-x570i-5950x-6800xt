@@ -33,6 +33,8 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
 <div>
 <img src="/images/AAEB3BF7-CE5F-41A6-A29C-5E3952518C23_1_105_c.jpeg" width="49%"/>
   <img src="/images/parts.jpeg" width="49%"/>
+    <img src="/images/pump_cover_1.jpeg" width="49%"/>
+      <img src="/images/pump_cover_2.jpeg" width="49%"/>
 <p align="center"><i>banana is actually pretty small.. 🍌</i></p>
 </div>
 
