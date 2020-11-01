@@ -3,12 +3,20 @@ This repository contains Open-Core Utilities + EFI-folder for my Hackintosh buil
 Dual-boot with Windows 10 and Cataline 10.15.6.
 
 <div>
+
 <img src="/images/AAEB3BF7-CE5F-41A6-A29C-5E3952518C23_1_105_c.jpeg" width="49%"/>
-  <img src="/images/parts.jpeg" width="49%"/>
-    <img src="/images/pump_cover_1.jpeg" width="49%"/>
-      <img src="/images/pump_cover_2.jpeg" width="49%"/>
-         <img src="/images/smiley.jpg" width="49%"/>
+<img src="/images/parts.jpeg" width="49%"/>
+
 <p align="center"><i>banana is actually pretty small.. 🍌</i></p>
+
+<img src="/images/pump_cover_1.jpeg" width="49%"/>
+<img src="/images/pump_cover_2.jpeg" width="49%"/>
+
+<p align="center"><i>custom 3d-printed cover for the pump.</i></p>
+
+<img src="/images/smiley.jpg" width="49%"/>
+
+<p align="center"><i>Replaced fugly ROG-eye with custom 3D-printed cover</i></p>
 </div>
 
 ## Components
