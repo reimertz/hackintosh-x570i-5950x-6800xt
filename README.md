@@ -7,6 +7,7 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
   <img src="/images/parts.jpeg" width="49%"/>
     <img src="/images/pump_cover_1.jpeg" width="49%"/>
       <img src="/images/pump_cover_2.jpeg" width="49%"/>
+         <img src="/images/smiley.jpg" width="49%"/>
 <p align="center"><i>banana is actually pretty small.. 🍌</i></p>
 </div>
 
