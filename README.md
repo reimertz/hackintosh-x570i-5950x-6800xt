@@ -22,7 +22,7 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
 | SSD | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 2 | *two because of dual-boot* |
 | Graphics card | [Radeon Vega 64](https://www.gigabyte.com/Graphics-Card/GV-RXVEGA64-8GD-B#kf) | 1 | *waiting for [Big Navi](https://duckduckgo.com/?q=amd+big+navi&t=ffab&iar=news&ia=news) so used my already owned vega 64 from a previous EGPU build* |
 | Wifi + Bluetooth | [Apple Airport BCM94360CD](https://www.ebay.com/itm/Apple-iMac-A1418-A1419-WiFi-Wireless-WLAN-Adapter-Card-Airport-BCM94360CD-W54/293691980043?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) | 1 | |
-| CPU water-block | [EK AMD Velocity RGB Nickel](https://www.ekwb.com/shop/ek-quantum-velocity-d-rgb-amd-nickel-plexi) | 1 | |
+| CPU water-block | [EK AMD Velocity D-RGB Nickel](https://www.ekwb.com/shop/ek-quantum-velocity-d-rgb-amd-nickel-plexi) | 1 | |
 | Radiator | [Alphacool NexXxoS ST30 Full Copper 240mm radiator V.2](https://www.alphacool.com/shop/radiators/active-radiators/23667/alphacool-nexxxos-st30-full-copper-240mm-radiator-v.2) | 1 | |
 | Radior fans | [Noctua NF-A12x25](https://noctua.at/en/products/fan/nf-a12x25-pwm) | 2 | |
 | Pump | [Alphacool DC-LT 2600 Ultra low noise Ceramic](https://www.alphacool.com/shop/pumps/alphacool-pumps/20729/alphacool-dc-lt-2600-ultra-low-noise-ceramic-12v-dc) | 1 | |
