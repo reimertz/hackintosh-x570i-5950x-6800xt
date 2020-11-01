@@ -12,7 +12,7 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
 <img src="/images/pump_cover_1.jpeg" width="49%"/>
 <img src="/images/pump_cover_2.jpeg" width="49%"/>
 
-<p align="center"><i>custom 3d-printed cover for the pump.</i></p>
+<p align="center"><i>custom 3d-printed cover for the pump. also repainted the PSU fan.</i></p>
 
 <img src="/images/smiley.jpg" width="49%"/>
 
