@@ -25,9 +25,9 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
 | -------- | ------------- | --- |  --- |
 | Case | [Louqe Ghost s1 + topcase](https://www.louqe.com/ghost-s1/) | 1 | |
 |	Motherboard | [Asus Strix GAMING X570-I](https://www.asus.com/Motherboards/ROG-Strix-X570-I-Gaming/) | 1 | *this motherboard has two M2 slots*|
-| CPU | [AMD Ryzen 9 3950X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+9+3950X&id=3598) | 1 | |
+| CPU | [AMD Ryzen 9 5950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x) | 1 | |
 | PSU | [CORSAIR SF Series™ SF750](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/SF-Series/p/CP-9020186-NA) | 1 | 
-| RAM | [VENGEANCE LPX 64GB (2 x 32GB) DDR4 DRAM 3200MHz C16 Memory Kit - Black](https://www.corsair.com/us/en/Categories/Products/Memory/VENGEANCE-LPX/p/CMK64GX4M2E3200C16) | 1 | |
+| RAM | [G.Skill Trident Z Neo DDR4-3600MHz CL16-19-19-39 1.35V 32GB (2x16GB)](https://www.gskill.com/product/165/326/1562840211/F4-3600C16D-32GTZNCTrident-Z-NeoDDR4-3600MHz-CL16-19-19-39-1.35V32GB-(2x16GB)) | 1 | |
 | SSD | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 2 | *two because of dual-boot* |
 | Graphics card | [Radeon Vega 64](https://www.gigabyte.com/Graphics-Card/GV-RXVEGA64-8GD-B#kf) | 1 | *waiting for [Big Navi](https://duckduckgo.com/?q=amd+big+navi&t=ffab&iar=news&ia=news) so used my already owned vega 64 from a previous EGPU build* |
 | Wifi + Bluetooth | [Apple Airport BCM94360CD](https://www.ebay.com/itm/Apple-iMac-A1418-A1419-WiFi-Wireless-WLAN-Adapter-Card-Airport-BCM94360CD-W54/293691980043?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) | 1 | |
