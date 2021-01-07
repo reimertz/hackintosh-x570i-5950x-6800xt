@@ -23,7 +23,7 @@ Dual-boot with Windows 10 and Cataline 10.15.6.
 
 | Component | Model name | Count | Comment |
 | -------- | ------------- | --- |  --- |
-| Case | [Louqe Ghost s1 + topcase](https://www.louqe.com/ghost-s1/) | 1 | |
+| Case | [Louqe Ghost s1 + topcase x2 ](https://www.louqe.com/ghost-s1/) | 1 | |
 |	Motherboard | [Asus Strix GAMING X570-I](https://www.asus.com/Motherboards/ROG-Strix-X570-I-Gaming/) | 1 | *this motherboard has two M2 slots*|
 | CPU | [AMD Ryzen 9 5950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x) | 1 | |
 | PSU | [CORSAIR SF Series™ SF750](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/SF-Series/p/CP-9020186-NA) | 1 | 
