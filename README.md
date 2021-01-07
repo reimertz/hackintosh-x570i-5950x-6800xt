@@ -1,6 +1,8 @@
-# hackintosh-x570i-3950x
+# hackintosh-x570i-5950x
 This repository contains Open-Core Utilities + EFI-folder for my Hackintosh build.
-Dual-boot with Windows 10 and Cataline 10.15.6.
+Dual-boot with Windows 10 and Big Sur 11.16. 
+
+A lot of love to [ChanceArthur](github.com/ChanceArthur) and his [article](https://chancearthur.com/notes/macos-on-the-asus-rog-strix-x570-i) that helped me getting a stable build. 
 
 <div>
 
