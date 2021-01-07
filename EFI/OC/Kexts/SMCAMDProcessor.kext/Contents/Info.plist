@@ -3,77 +3,83 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17A365</string>
+	<string>19E287</string>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>English</string>
+	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>SmallTreeIntel82576</string>
+	<string>SMCAMDProcessor</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.smalltree.driver.SmallTreeIntel82576</string>
+	<string>wtf.spinach.SMCAMDProcessor</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>SmallTreeIntel82576</string>
+	<string>SMCAMDProcessor</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
-	<key>CFBundleSignature</key>
-	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2.5</string>
+	<string>1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9A235</string>
+	<string>11E146</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>17A360</string>
+	<string>19E258</string>
 	<key>DTSDKName</key>
-	<string>macosx10.13</string>
+	<string>macosx10.15</string>
 	<key>DTXcode</key>
-	<string>0900</string>
+	<string>1140</string>
 	<key>DTXcodeBuild</key>
-	<string>9A235</string>
+	<string>11E146</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>SmallTreeIntel82576</key>
+		<key>wtf.spinach.SMCAMDProcessor</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.smalltree.driver.SmallTreeIntel82576</string>
+			<string>wtf.spinach.SMCAMDProcessor</string>
 			<key>IOClass</key>
-			<string>SmallTreeIntel82576</string>
-			<key>IOPCIPrimaryMatch</key>
-			<string>0x15218086 0x15228086 0x15398086</string>
-			<key>IOPCITunnelCompatible</key>
-			<true/>
+			<string>SMCAMDProcessor</string>
+			<key>IOMatchCategory</key>
+			<string>SMCAMDProcessor</string>
 			<key>IOProviderClass</key>
-			<string>IOPCIDevice</string>
-			<key>IOResourceMatch</key>
-			<string>IOKit</string>
-			<key>IOUserClientClass</key>
-			<string>STECUserClient</string>
+			<string>AMDRyzenCPUPowerManagement</string>
 		</dict>
 	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.13</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2020 trulyspinach. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
-		<key>com.apple.iokit.IONetworkingFamily</key>
-		<string>1.5</string>
+		<key>as.vit9696.Lilu</key>
+		<string>1.3.9</string>
+		<key>as.vit9696.VirtualSMC</key>
+		<string>1.0.0</string>
 		<key>com.apple.iokit.IOPCIFamily</key>
-		<string>1.7</string>
+		<string>2.9</string>
+		<key>com.apple.kec.Libm</key>
+		<string>1.0</string>
 		<key>com.apple.kpi.bsd</key>
-		<string>8.10.0</string>
+		<string>12.0.0</string>
+		<key>com.apple.kpi.dsep</key>
+		<string>12.0.0</string>
 		<key>com.apple.kpi.iokit</key>
-		<string>8.10.0</string>
+		<string>12.0.0</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>8.10.0</string>
+		<string>12.0.0</string>
 		<key>com.apple.kpi.mach</key>
-		<string>8.10.0</string>
+		<string>12.0.0</string>
+		<key>com.apple.kpi.unsupported</key>
+		<string>12.0.0</string>
+		<key>wtf.spinach.AMDRyzenCPUPowerManagement</key>
+		<string>0.6</string>
 	</dict>
 </dict>
 </plist>
