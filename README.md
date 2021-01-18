@@ -51,7 +51,6 @@ https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi
 
 
 ## What is working
-- Undervolted + Underclocked vega 64
 - Wake / sleep
 - iCloud / Messages / Facetime 
 - Airdrop
