@@ -64,5 +64,4 @@ https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi
 - Dual boot
 
 ## What is NOT working (and probably never will)
-- Virtualization (Docker, Android Emulator)
 - Line-in microphone
