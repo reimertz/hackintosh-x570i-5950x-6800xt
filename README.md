@@ -32,7 +32,7 @@ A lot of love to [ChanceArthur](https://github.com/ChanceArthur) and his [articl
 | PSU | [CORSAIR SF Series™ SF750](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/SF-Series/p/CP-9020186-NA) | 1 | 
 | RAM | [G.Skill Trident Z Neo DDR4-3600MHz CL16-19-19-39 1.35V 32GB (2x16GB)](https://www.gskill.com/product/165/326/1562840211/F4-3600C16D-32GTZNCTrident-Z-NeoDDR4-3600MHz-CL16-19-19-39-1.35V32GB-(2x16GB)) | 1 | |
 | SSD | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 2 | *two because of dual-boot* |
-| Graphics card | [Radeon Vega 64](https://www.gigabyte.com/Graphics-Card/GV-RXVEGA64-8GD-B#kf) | 1 | *waiting for [Big Navi](https://duckduckgo.com/?q=amd+big+navi&t=ffab&iar=news&ia=news) so used my already owned vega 64 from a previous EGPU build* |
+| Graphics card | [Radeon 6800 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800-xt) | 1 | *still waiting for drivers :( * |
 | Wifi + Bluetooth | [Apple Airport BCM94360CD](https://www.ebay.com/itm/Apple-iMac-A1418-A1419-WiFi-Wireless-WLAN-Adapter-Card-Airport-BCM94360CD-W54/293691980043?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) | 1 | |
 | CPU water-block | [EK AMD Velocity D-RGB Nickel](https://www.ekwb.com/shop/ek-quantum-velocity-d-rgb-amd-nickel-plexi) | 1 | |
 | Radiator | [Alphacool NexXxoS ST30 Full Copper 240mm radiator V.2](https://www.alphacool.com/shop/radiators/active-radiators/23667/alphacool-nexxxos-st30-full-copper-240mm-radiator-v.2) | 1 | |
