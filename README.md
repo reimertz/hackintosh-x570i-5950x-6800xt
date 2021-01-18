@@ -40,7 +40,8 @@ https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi
 | CPU water-block | [EK AMD Velocity D-RGB Nickel](https://www.ekwb.com/shop/ek-quantum-velocity-d-rgb-amd-nickel-plexi) | 1 | |
 | Radiator | [Alphacool NexXxoS ST30 Full Copper 240mm radiator V.2](https://www.alphacool.com/shop/radiators/active-radiators/23667/alphacool-nexxxos-st30-full-copper-240mm-radiator-v.2) | 1 | |
 | Radior fans | [Noctua NF-A12x25](https://noctua.at/en/products/fan/nf-a12x25-pwm) | 2 | |
-| Pump | [Alphacool DC-LT 2600 Ultra low noise Ceramic](https://www.alphacool.com/shop/pumps/alphacool-pumps/20729/alphacool-dc-lt-2600-ultra-low-noise-ceramic-12v-dc) | 1 | |
+| Radior fans | [Noctua NF-A12x15](https://noctua.at/en/products/fan/nf-a12x15-pwm) | 2 | |
+| Pump | [Alphacool DC-LT 2600 Ultra low noise Ceramic](https://www.alphacool.com/shop/pumps/alphacool-pumps/20729/alphacool-dc-lt-2600-ultra-low-noise-ceramic-12v-dc) | 2 | |
 | Reservoir | [Alphacool Eisstation 40 DC-LT](https://www.alphacool.com/shop/reservoirs/pump-top-reservoirs/24196/alphacool-eisstation-40-dc-lt-reservoir) | 1 | |
 | Cable Fittings | [EK-Quantum Torque 6-Pack STC 10/16](https://www.ekwb.com/shop/ek-quantum-torque-6-pack-stc-10-16-black) | 1 pack (6 fittings)| |
 | 90° angled adapter (for pump)| [EK-AF Classic Angled 90° - Black](https://www.ekwb.com/shop/ek-af-classic-angled-90-black) | 1 |
