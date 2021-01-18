@@ -32,8 +32,8 @@ A lot of love to [ChanceArthur](https://github.com/ChanceArthur) and his [articl
 | PSU | [CORSAIR SF Series™ SF750](https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/SF-Series/p/CP-9020186-NA) | 1 | 
 | RAM | [G.Skill Trident Z Neo DDR4-3600MHz CL16-19-19-39 1.35V 32GB (2x16GB)](https://www.gskill.com/product/165/326/1562840211/F4-3600C16D-32GTZNCTrident-Z-NeoDDR4-3600MHz-CL16-19-19-39-1.35V32GB-(2x16GB)) | 1 | |
 | NVRAM | [CORSAIR Force Series MP600 1 Tb](https://www.corsair.com/us/en/Categories/Products/Storage/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600) | 2 | *two because of dual-boot* |
-| Graphics card | [Radeon 6800 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800-xt) | 1 | *still waiting for drivers :( * |
-| GPU water-block | [EK-Quantum Vector RX 6800/6900 D-RGB - Nickel + Plexi](https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi) | 1 | *still waiting for drivers :( * |
+| Graphics card | [Radeon 6800 XT](https://www.amd.com/en/products/graphics/amd-radeon-rx-6800-xt) | 1 | |
+| GPU water-block | [EK-Quantum Vector RX 6800/6900 D-RGB - Nickel + Plexi](https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi) | 1 |  |
 | GPU water-block backplate | [EK-Quantum Vector RX 6800/6900 Backplate - Nickel](https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-backplate-nickel) | 1 | * bonus feature: this enables adding thermal pads between gpu and second NVRAM * |
 https://www.ekwb.com/shop/ek-quantum-vector-rx-6800-6900-d-rgb-nickel-plexi
 | Wifi + Bluetooth | [Apple Airport BCM94360CD](https://www.ebay.com/itm/Apple-iMac-A1418-A1419-WiFi-Wireless-WLAN-Adapter-Card-Airport-BCM94360CD-W54/293691980043?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) | 1 | |
